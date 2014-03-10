@@ -1,0 +1,4 @@
+MEDCENTER “Auckland Uni Health Center” {
+HOURS Sat(09:00-16:30)
+DOCTOR “Joe Blogs” REG_ID 82263
+}

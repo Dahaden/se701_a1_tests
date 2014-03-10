@@ -1,0 +1,14 @@
+MEDCENTER “Auckland Uni Health Center” {
+DOCTOR “Joe Blogs” REG_ID 82263
+PATIENT “Lady Gaga” {
+ID LG12345
+DOB 28 March 1986
+PHONES {
+HOME: 093737599
+MOBILE: 911
+WORK: +6493737599 EXT 56781
+MOBILE: 021987654
+}
+ADDRESS “2c/70 Victoria-West Street, Auckland, New Zealand”
+}
+}

@@ -1,0 +1,27 @@
+CORRECT
+1. Original
+18. Minimal information
+19. Minimal Information with Patient 
+22. Different Order
+
+
+INCORRECT
+
+2. Double Declaraion (2 MedCenters)
+3. Empty Name ("")
+4. No Hours
+5. No time on hours
+6. No Day on Hours
+7. No Doctor
+8. No Doctor ID
+9. Letter in Doctor ID
+10. Doctor ID too long
+11. Doctor ID too short
+12. Empty Doctors Name
+13. Missing Patient Name
+14. No Patient ID
+15. Invalid DOB Year
+16. Invalid DOB Month
+17. No PHONES numbers
+20. Invalid Patient ID (No letters)
+21. Invalid Patient ID (No Numbers) 
