@@ -1,8 +1,10 @@
 CORRECT
+
 1. Original
 18. Minimal information
 19. Minimal Information with Patient 
 22. Different Order
+23. Single letter date for patient DOB
 
 
 INCORRECT
