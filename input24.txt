@@ -1,10 +1,10 @@
-MEDCENTER â€œAuckland Uni Health Centerâ€ {
+MEDCENTER “Auckland Uni Health Center” {
 HOURS Sat(09:00-16:30)
 HOURS Mon,Tue,Wed,Thu,Fri(08:00-17:00)
-DOCTOR â€œJoe Blogsâ€ REG_ID 82263
-PATIENT â€œLady Gagaâ€ {
+DOCTOR “Joe Blogs” REG_ID 82263
+PATIENT “Lady Gaga” {
 
-ADDRESS â€œ2c/70 Victoria-West Street, Auckland, New Zealandâ€
+ADDRESS “2c/70 Victoria-West Street, Auckland, New Zealand”
 PHONES {
 HOME: 093737599
 MOBILE: 911
