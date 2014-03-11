@@ -3,8 +3,8 @@ CORRECT
 1. Original
 18. Minimal information
 19. Minimal Information with Patient 
-22. Different Order
 23. Single letter date for patient DOB
+24. Different Order (in Patient)
 
 
 INCORRECT
@@ -26,4 +26,5 @@ INCORRECT
 16. Invalid DOB Month
 17. No PHONES numbers
 20. Invalid Patient ID (No letters)
-21. Invalid Patient ID (No Numbers) 
+21. Invalid Patient ID (No Numbers)
+22. Different Order (Not allowed in MEDCENTER (Thanks Miki!)) 
