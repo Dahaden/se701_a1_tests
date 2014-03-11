@@ -1,7 +1,7 @@
-MEDCENTER “Auckland Uni Health Center” {
+MEDCENTER "Auckland Uni Health Center" {
 HOURS Sat(09:00-16:30)
 HOURS Mon,Tue,Wed,Thu,Fri(08:00-17:00)
-PATIENT “Lady Gaga” {
+PATIENT "Lady Gaga" {
 ID LG12345
 DOB 28 March 1986
 PHONES {
@@ -10,6 +10,6 @@ MOBILE: 911
 WORK: +6493737599 EXT 56781
 MOBILE: 021987654
 }
-ADDRESS “2c/70 Victoria-West Street, Auckland, New Zealand”
+ADDRESS "2c/70 Victoria-West Street, Auckland, New Zealand"
 }
 }
