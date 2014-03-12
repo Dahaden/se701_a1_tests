@@ -10,7 +10,7 @@ CORRECT
 
 INCORRECT
 
-2. Double Declaraion (2 MedCenters)
+2. Double Declaration (2 MedCenters)
 3. Empty Name ("")
 4. No Hours
 5. No time on hours
