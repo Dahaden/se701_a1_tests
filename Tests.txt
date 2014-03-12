@@ -6,6 +6,8 @@ CORRECT
 23. Single letter date for patient DOB
 24. Different Order (in Patient)
 25. Random spaces in places
+26. 5 digit phone numbers
+27. WHITESPACE EVERYWHEREs
 
 
 INCORRECT
