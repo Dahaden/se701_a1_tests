@@ -8,7 +8,7 @@ CORRECT
 25. Random spaces in places
 26. 5 digit phone numbers
 27. WHITESPACE EVERYWHEREs
-
+28. Address string "Disguised" as a Name
 
 INCORRECT
 
