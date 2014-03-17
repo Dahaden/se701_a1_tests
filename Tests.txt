@@ -1,6 +1,6 @@
 CORRECT
 
-1. Original
+1. Original (Now with one digit, also shouldnt fail)
 18. Minimal information
 19. Minimal Information with Patient 
 23. Single letter date for patient DOB
