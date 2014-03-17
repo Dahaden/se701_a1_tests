@@ -32,4 +32,8 @@ INCORRECT
 20. Invalid Patient ID (No letters)
 21. Invalid Patient ID (No Numbers)
 22. Different Order (Not allowed in MEDCENTER (Thanks Miki!))
-30. Multiple Definitions of attributes in PATIENT 
+30. Multiple Definitions of attributes in PATIENT
+31. Multiple DOB
+32. Multiple Phones
+33. Multiple Address
+34. Multiple ID 
