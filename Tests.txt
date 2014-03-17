@@ -31,4 +31,5 @@ INCORRECT
 17. No PHONES numbers
 20. Invalid Patient ID (No letters)
 21. Invalid Patient ID (No Numbers)
-22. Different Order (Not allowed in MEDCENTER (Thanks Miki!)) 
+22. Different Order (Not allowed in MEDCENTER (Thanks Miki!))
+30. Multiple Definitions of attributes in PATIENT 
