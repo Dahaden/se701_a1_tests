@@ -1,0 +1,11 @@
+public class Test5 {
+	
+	String a;
+	
+	public void foo(boolean x) {
+		a = 4;  //This is fine
+		a = "This is not fine"; //This is also fine
+		
+		//break;
+	}
+}

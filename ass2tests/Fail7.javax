@@ -1,0 +1,10 @@
+public class Test11 {
+	int a;
+	public void foo(boolean x) {
+		TestClass tc = new TestClass();
+		a = tc.field; //This is of the wrong type
+	}
+}
+class TestClass {
+	public String field = "This doesn't work!";
+}

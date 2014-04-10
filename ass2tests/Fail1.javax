@@ -1,0 +1,11 @@
+public class Test1 {
+	int a;
+	
+	public void b(String lol, int asdf, boolean n) {};
+	
+	public void foo(boolean x) {
+		b("string",1,true);
+		a = false;  // ERROR: incompatible types
+		//break;
+	}
+}

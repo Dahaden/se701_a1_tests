@@ -1,0 +1,12 @@
+public class Test6 {
+	
+	String a;
+	
+	public String GoodStuff() {
+		return "Mikhail is cool";
+	}
+	
+	public void foo(boolean x) {
+		a = GoodStuff();
+	}
+}

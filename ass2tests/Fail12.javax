@@ -1,0 +1,23 @@
+public class Fail12 {
+	
+	class Inner {
+		
+		int a;
+		int b;
+		
+		public void function(String param) {
+			int b; //this is valid
+			this.b = b; //also valid
+		}
+		
+		public void anotherFunction(String a) {
+			function(a); //This is alright
+			function(this.a); //This should fail
+		}
+	}
+	
+	public static void main(String args[]) {
+		Inner inner = new Inner();
+		inner.anotherFunction(1);
+	}
+}

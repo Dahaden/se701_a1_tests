@@ -1,0 +1,12 @@
+public class MethodOverloader {
+
+	public String a() {}
+	public String a(String b) {}
+	public String a(String b, int c) {}
+	
+	public static void main(String args[]) {
+		a();
+		a(a());
+		a("literal",1);
+	}
+}

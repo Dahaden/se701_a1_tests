@@ -1,0 +1,12 @@
+public class Fail11 {
+
+	public static void main(String args[]) {
+	
+		a = 2; //This is fine
+		b = 3; //This should fail
+		
+		int b;
+	}
+	
+	static int a;
+}

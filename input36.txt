@@ -1,0 +1,14 @@
+MEDCENTER "Auckland Uni Health Center"{
+	HOURS Mon, Tue (08:00-17:00)
+	DOCTOR "" REG_ID 54857
+	PATIENT "Lady Gaga"{
+		ID GL12345
+		DOB 28 March 1986	
+		PHONES{
+			HOME: 093737599
+		}	
+		ADDRESS "2c/70 Victoria-West Street, Auckland, New Zealand"
+	}
+}
+
+

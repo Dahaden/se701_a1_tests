@@ -1,0 +1,10 @@
+public class Fail13 {
+	int a;
+	
+	class Inner
+	{
+		public static void function() {
+			a = 2; //This is out of scope
+		}
+	}
+}
