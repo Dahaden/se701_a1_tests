@@ -1,8 +1,0 @@
-public class Pass8 {
-	int a;
-	
-	class Inner
-	{
-		String a; //This is fine
-	}
-}
